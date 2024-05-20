@@ -16,7 +16,7 @@
 7. **[Micro Blogging Site](https://github.com/garvneo/leons-life-blog)**
 8. **[Store Management (End to End RESTful)](https://github.com/garvneo/flask-restful-app-e2e) (Live on web)**
 9. **[Cafe Finder APIs](https://github.com/garvneo/cafe-finder-rest-apis)**
-10. **[Chespest Flight Finder](https://github.com/garvneo/cheapest-flight-finder)**
+10. **[Cheapest Flight Finder](https://github.com/garvneo/cheapest-flight-finder)**
 11. **[Pomodoro GUI Desktop App](https://github.com/garvneo/pomodoro-app)**
 #### DayToDayWork-WebScraping ([fun-scripts](https://github.com/garvneo/fun-projects))
 12. **[Rain Alert (via text on mobile)](https://github.com/garvneo/fun-projects/tree/main/RainAlert)**
