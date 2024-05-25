@@ -1,6 +1,6 @@
 # grv-project-catalog
-- Lists all public projects that my GitHub account holds at present. 
-- To learn more about me, please visit my [CV page](https://garvneo.github.io/cv/).
+- Lists all public projects that my GitHub account holds at present.
+- **To learn more about me, please visit my [CV page](https://garvneo.github.io/cv/).**
 
 ### Public project's name with link
 ##### Note: More projects are in the pipeline, particularly in the areas of AI, ML, and NLP. I'll begin by adding smaller projects and gradually move on to more complex and larger ones. For now, feel free to explore the projects listed below:
